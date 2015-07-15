@@ -1,0 +1,17 @@
+{
+  "name": "polymer",
+  "version": "0.0.1",
+  "authors": [
+    "kittuov <krishnachaitanya.kornepati@gmail.com>"
+  ],
+  "description": "ui elements for extremus",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
